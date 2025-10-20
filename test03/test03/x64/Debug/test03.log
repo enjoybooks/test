@@ -1,0 +1,5 @@
+﻿  SpaceshipFleet.cpp
+  screen.cpp
+  正在生成代码...
+test03\x64\Debug\Spaceship.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  test03.vcxproj -> E:\code\Visual Community\test03\x64\Debug\test03.exe

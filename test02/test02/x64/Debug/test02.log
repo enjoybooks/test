@@ -1,0 +1,6 @@
+﻿  rectangle.cpp
+E:\code\Visual Community\test02\rectangle.cpp(56,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\code\Visual Community\test02\rectangle.cpp(56,14): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\code\Visual Community\test02\rectangle.cpp(57,18): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\code\Visual Community\test02\rectangle.cpp(57,14): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  test02.vcxproj -> E:\code\Visual Community\test02\x64\Debug\test02.exe
